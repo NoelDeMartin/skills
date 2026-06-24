@@ -1,5 +1,11 @@
 # Noel De Martin's Skills
 
+Install these skills with the following command:
+
+```sh
+npx skills@latest add noeldemartin/skills
+```
+
 ## Frontend
 
 Skills for frontend development.
