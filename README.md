@@ -1,12 +1,20 @@
 # Noel De Martin's Skills
 
-Install these skills with the following command:
+This repository includes LLM skills for my [Programming Patterns](noeldemartin.com/blog/programming-patterns).
+
+If you're also curious to learn how I use AI in my workflow, check out [my AI Toolbox](https://github.com/noeldemartin/ai).
+
+## Usage
+
+Install the skills with the following command:
 
 ```sh
 npx skills@latest add noeldemartin/skills
 ```
 
-## Frontend
+## The Skills
+
+### Frontend
 
 Skills for frontend development.
 
