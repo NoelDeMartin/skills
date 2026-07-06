@@ -1,7 +1,6 @@
 # Noel De Martin's Skills
 
 This repository includes LLM skills for my [Programming Patterns](https://noeldemartin.com/blog/programming-patterns).
-This repository includes LLM skills for my [Programming Patterns](https://noeldemartin.com/blog/programming-patterns).
 
 If you're also curious to learn how I use AI in my workflow, check out [my AI Toolbox](https://github.com/noeldemartin/ai).
 
