@@ -1,8 +1,8 @@
 # Vue Modals
 
-Ask the user if they want to use the `@noeldemartin/vue-modals` package to simplify setting this up, or see if it's already installed and configured.
+Check if the `@noeldemartin/vue-modals` package is installed in the project. If it isn't and this is an interactive session, ask the user if they want to use it to simplify setting this up. If you're working autonomously, decide whether you want to install it or not.
 
-If they don't want to use it, use the instructions here and look at the package's source code to learn how to build this from scratch in the project.
+In case the package is not installed, use these instructions and look at the package's source code to learn how to build this functionality from scratch in the project.
 
 ## Configuration
 
