@@ -18,6 +18,14 @@ npx skills@latest add noeldemartin/skills
 
 Skills for frontend development.
 
-| Name                                                                                          | Description                                                       |
-| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [Better Modals](https://noeldemartin.com/blog/the-problems-with-modals-and-how-to-solve-them) | Use imperative, promise-based modals instead of rendering inline. |
+| Name                                                                                          | Description                                                       | Auto-invoked |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------ |
+| [Better Modals](https://noeldemartin.com/blog/the-problems-with-modals-and-how-to-solve-them) | Use imperative, promise-based modals instead of rendering inline. | Yes          |
+
+### JavaScript
+
+Skills for JavaScript or TypeScript projects.
+
+| Name                                                                              | Description                                                                                                                                               | Auto-invoked |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [Magic Objects](https://noeldemartin.com/blog/programming-patterns-magic-objects) | Use the "Magic Object" pattern, which allows classes to seamlessly intercept access to undefined properties and methods (similar to PHP's magic methods). | No           |

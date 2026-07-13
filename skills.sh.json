@@ -6,6 +6,11 @@
       "title": "Frontend",
       "description": "Skills for frontend development.",
       "skills": ["better-modals"]
+    },
+    {
+      "title": "JavaScript",
+      "description": "Skills for JavaScript or TypeScript projects.",
+      "skills": ["magic-objects"]
     }
   ]
 }
