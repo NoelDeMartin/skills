@@ -10,7 +10,7 @@
     {
       "title": "JavaScript",
       "description": "Skills for JavaScript or TypeScript projects.",
-      "skills": ["magic-objects"]
+      "skills": ["facades", "magic-objects"]
     }
   ]
 }

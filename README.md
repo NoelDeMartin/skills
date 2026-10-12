@@ -26,6 +26,7 @@ Skills for frontend development.
 
 Skills for JavaScript or TypeScript projects.
 
-| Name                                                                              | Description                                                                                                                                               | Auto-invoked |
-| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [Magic Objects](https://noeldemartin.com/blog/programming-patterns-magic-objects) | Use the "Magic Object" pattern, which allows classes to seamlessly intercept access to undefined properties and methods (similar to PHP's magic methods). | No           |
+| Name                                                                              | Description                                                                                                                                                            | Auto-invoked |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [Facades](https://noeldemartin.com/blog/programming-patterns-facades)             | Use the "Facade" pattern, which exposes global service instances through static-like accessors that can be swapped at runtime. | No           |
+| [Magic Objects](https://noeldemartin.com/blog/programming-patterns-magic-objects) | Use the "Magic Object" pattern, which allows classes to seamlessly intercept access to undefined properties and methods (similar to PHP's magic methods).              | No           |
